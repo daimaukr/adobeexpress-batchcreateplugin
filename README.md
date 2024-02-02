@@ -22,7 +22,7 @@ I'am continuously working to improve the BatchCreate Add-on and value your feedb
 
 ## Contributing
 
-While the plugin's code is not hosted on GitHub, I welcome contributions in the form of feedback, documentation improvements, and suggestions. Please see our [contributing guidelines](https://github.com/daimaukr/ae-batchcreate-plugin-documentation/CONTRIBUTING.md) for more information on how you can contribute.
+While the plugin's code is not hosted on GitHub, I welcome contributions in the form of feedback, documentation improvements, and suggestions. Please see our [contributing guidelines](https://github.com/daimaukr/ae-batchcreate-plugin-documentation/blob/main/CONTRIBUTING.md) for more information on how you can contribute.
 
 ## Support
 
